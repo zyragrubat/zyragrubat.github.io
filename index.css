@@ -1,10 +1,13 @@
 body {
-    background-color: lightblue;
+    background-color: #95AFCD;
 }
 
 p {
-    font-family: verdana;
+    font-family: Gill Sans Extrabold, sans-serif;
     font-size: 20px;
     text-align: center;
+     border: 2px solid #EADCD6;
+    border-radius: 5px;
+    color: #4E2F1F;
 }
 
